@@ -1,27 +1,19 @@
-## Welcome to GitHub Pages
+##  Sean  Arevalo  Braulio 
+Vivo en la ciudad de mexico, estudio en el cetis 32 quiero estudiar a nvel superior la carrera de ingenieria en sistemas 
 
-You can use the [editor on GitHub](https://github.com/SeanArevalo/SeanArevalo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+###  MI  COMIDA fAVORITA 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Me  gusta  mucho comer  tacos de suadero y pastor (:
 
-### Markdown
+### QUE ME GUSTA HACER EN LOS RATOS LIBRES 
+- Hacer ejercicio 
+- Jugar videoJuegos
+- Ver videos 
+- Ver peliculas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**NACI EN EL ESTADO DE MEXICO** 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
