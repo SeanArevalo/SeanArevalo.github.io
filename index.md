@@ -1,17 +1,20 @@
 ##  Sean  Arevalo  Braulio 
-Vivo en la ciudad de mexico, estudio en el cetis 32 quiero estudiar a nvel superior la carrera de ingenieria en sistemas 
 
-###  MI  COMIDA fAVORITA 
+###  MIs Gustos  
+- Me gusta jugar videojuegos
+- Me gusta ver series y peluculas 
+- Me gusta hacer ejercicio  
+### Mis Habilidades Sociales 
+Me gusta platicar con mis compañeros aunque aveces con gente nueva me cuesta un poco empezar una conversacion, pero una vez que me siento con confianza puedo hablar con las personas de cualquier tema y tambien me gusta que me platiquen cosas. 
 
-Me  gusta  mucho comer  tacos de suadero y pastor (:
+### Mis Hablilidades tecnologicas 
+Pues no tengo muchas pero se algunas funciones y conexiones de las computadoras aveces ayudo a personas cerca de mi casa a desbloquear sus telefonos o tambien ayudarles cuando su computadora corre lenta o tambien su celular.
 
-### QUE ME GUSTA HACER EN LOS RATOS LIBRES 
-- Hacer ejercicio 
-- Jugar videoJuegos
-- Ver videos 
-- Ver peliculas
+### Mi experiencia laboral 
+No tengo 
 
-**NACI EN EL ESTADO DE MEXICO** 
+
+
 
 
 
