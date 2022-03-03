@@ -1,10 +1,12 @@
 ##  Sean  Arevalo  Braulio 
 ### MENU 
-[mis gustos](./misgustos)
+[mis gustos](./misgustos.md)
 
-[Mis Habilidades Sociales](./mishabilidadessociales)
+[Mis Habilidades Sociales](./mishabilidadessociales.md)
 
-[Mis Habilidades Tecnologicas](./mishabilidadestecnologicas)
+[Mis Habilidades Tecnologicas](./mishabilidadestecnologicas.md)
+
+[Experiencia Academic](./experienciaacademic.md)
 
 
 
