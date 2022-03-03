@@ -2,6 +2,10 @@
 ### MENU 
 [mis gustos](./misgustos)
 
+[Mis Habilidades Sociales](./mishabilidadessociales)
+
+[Mis Habilidades Tecnologicas](./mishabilidadestecnologicas)
+
 
 
 
