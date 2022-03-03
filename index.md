@@ -2,7 +2,7 @@
 
 ###  MIs Gustos  
 - Me gusta jugar videojuegos
-- Me gusta ver series y peluculas 
+- Me gusta ver series y peliculas
 - Me gusta hacer ejercicio  
 ### Mis Habilidades Sociales 
 Me gusta platicar con mis compañeros aunque aveces con gente nueva me cuesta un poco empezar una conversacion, pero una vez que me siento con confianza puedo hablar con las personas de cualquier tema y tambien me gusta que me platiquen cosas. 
