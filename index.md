@@ -1,4 +1,4 @@
-##  Sean  Arevalo  Braulio 
+##  Sean  Arevalo  Braulio
 
 ###  MIs Gustos  
 - Me gusta jugar videojuegos
@@ -9,9 +9,9 @@ Me gusta platicar con mis compañeros aunque aveces con gente nueva me cuesta un
 
 ### Mis Hablilidades tecnologicas 
 Pues no tengo muchas pero se algunas funciones y conexiones de las computadoras aveces ayudo a personas cerca de mi casa a desbloquear sus telefonos o tambien ayudarles cuando su computadora corre lenta o tambien su celular.
-
 ### Mi experiencia laboral 
 No tengo 
+
 
 
 
