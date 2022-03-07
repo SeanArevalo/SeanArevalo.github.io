@@ -1,11 +1,11 @@
 | Mis gustos | 
 |------------| 
 
-| comida | deportes | juegos | ropa | bebidas | 
-|--------|----------|--------|-----|---------|
-| pollo | futbol | de mesa | negra | jugos | 
-| tacos | boxeo | llenga | roja | refrescos|  
-| pastas | 
-| pizza |
-| hambuguesa |
-| 
+| comida | Peliculas | 
+|--------|-----------|
+| pollo | accion |
+| tacos | aventura | 
+| pastas | misterio |
+| pizza | terror |
+| hambuguesa |  suspenso |
+
