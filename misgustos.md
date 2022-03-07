@@ -1,5 +1,4 @@
-| Mis gustos | 
-|------------| 
+## Mis Gustos  
 
 | comida | Peliculas | 
 |--------|-----------|
