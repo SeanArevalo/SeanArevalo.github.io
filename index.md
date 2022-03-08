@@ -3,11 +3,8 @@
 
 [mis gustos](./misgustos.md)
 
-[Mis Habilidades Sociales](./mishabilidadessociales.md)
+[Mis valores](./misvalores.md)
 
-[Mis Habilidades Tecnologicas](./mishabilidadestecnologicas.md)
-
-[Experiencia Academic](./experienciaacademic.md)
 
 
 
